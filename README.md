@@ -17,7 +17,7 @@
 ![img_program_at_run](images/img_program_at_run.png)
 ![img_waterproof](images/img_waterproof.png)
 
-## ℹ️Image will go back to default when subheadings are closed!
+### ℹ️Image will go back to default when subheadings are closed!
 
 ## 📚Authors
 👨‍🎓 **Rafael Negrete Fonseca**  
