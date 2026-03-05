@@ -1,4 +1,9 @@
-﻿# 📱Game Description <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>  
+﻿# 📱This program was made using...
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+- <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
+ 
+ 
+ # 📱Game Description <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>  
 > *This game generates a random number from 1-100 that the player must guess! As the player gets closer to the number, the message under the guess-box will change as well as the color of the letters!🤩*
 > - *The further the player is from the number, the colder they will be🥶.*
 > - *The closer to the number, the hotter!🔥* 
