@@ -1,6 +1,10 @@
-﻿# 📱This program was made using...
+﻿# 💻Program Details
+>*## This program was made using:*
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 - <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
+>*##The purpose of this program is:*
+- Learn how to toggle panel visibility with user click
+- Learn how to store 'h2' elements inside an 'h2s' list. For example: const h2s = document.querySelectorAll("#faqs h2")
  
  
  # 📱Game Description <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>  
